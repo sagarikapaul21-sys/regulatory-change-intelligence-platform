@@ -50,6 +50,10 @@ MediSure leverages AI and workflow automation to:
 
 <img width="1360" height="509" alt="image" src="https://github.com/user-attachments/assets/a3958209-e66f-46b0-b150-da5ba3e1e07e" />
 
+### Query Execution Flow
+
+The execution trace below shows how the AI Agent invoked memory, web search, Pinecone vector retrieval, embeddings, and LLM components to answer the query.
+<img width="241" height="485" alt="image" src="https://github.com/user-attachments/assets/611d13e2-3fa9-4481-a535-0e951e21aa9c" />
 
 ---
 
