@@ -1,0 +1,21 @@
+## Sample Query
+
+**User Question**
+
+> What are the latest FDA regulatory updates regarding Class II medical devices?
+
+
+### Generated Response Summary
+
+- Latest FDA updates identified
+- Regulatory requirements extracted
+- Risks assessed
+- Recommended actions generated
+- Sources cited
+
+### Evaluation Result
+
+✅ Relevance: Pass  
+✅ Grounding: Pass  
+✅ Completeness: Pass  
+✅ Confidence Level: High
