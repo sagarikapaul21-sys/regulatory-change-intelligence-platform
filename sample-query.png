@@ -1,1 +1,64 @@
+## Sample Query
+
+**User Question**
+
+> What are the latest FDA regulatory updates for Class II medical devices?
+
+---
+
+## AI-Generated Regulatory Intelligence Summary
+
+### Query Summary
+
+Latest FDA regulatory developments, compliance expectations, and safety considerations affecting Class II medical devices.
+
+### Key Findings
+
+* Class II devices continue to account for a significant proportion of FDA recalls, generally involving moderate risk to patient safety.
+* FDA requires post-market surveillance for certain Class II and Class III devices under Section 522 of the FD&C Act.
+* Recent FDA updates introduced new Class II device classifications with additional special controls.
+* FDA launched initiatives to improve transparency around device recalls and safety communications.
+* Recent 510(k) clearance trends indicate evolving regulatory review practices.
+
+### Compliance Requirements
+
+* Maintain effective post-market surveillance programs.
+* Comply with FDA recall notification and reporting obligations.
+* Review and implement Quality Management System Regulation (QMSR) updates.
+* Monitor FDA guidance documents and regulatory announcements.
+
+### Risks
+
+* Non-compliance may result in regulatory scrutiny and patient safety concerns.
+* Failure to implement updated FDA guidance may impact product approvals and market access.
+
+### Recommended Actions
+
+1. Review post-market surveillance processes.
+2. Monitor FDA recall and enforcement reports.
+3. Update quality and compliance procedures.
+4. Assess impact of new classifications and guidance updates.
+
+### Sources
+
+* FDA Postmarket Surveillance Guidance
+* FDA Enforcement Reports
+* FDA Medical Device Guidance Documents
+
+---
+
+## AI Evaluation Result
+
+| Evaluation Criteria | Result |
+| ------------------- | ------ |
+| Relevance           | Pass   |
+| Grounding           | Pass   |
+| Completeness        | Pass   |
+| Clarity             | Pass   |
+| Citation Quality    | Pass   |
+| Risk Assessment     | Pass   |
+
+**Overall Verdict:** Approved
+
+**Confidence Level:** High
 
